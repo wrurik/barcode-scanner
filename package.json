@@ -1,0 +1,21 @@
+{
+  "name": "@wrurik/barcode-scanner",
+  "version": "1.0.0",
+  "description": "Handle the input of physical barcode-scanners in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "barcode",
+    "scanner",
+    "barcodescanner",
+    "reader",
+    "barcodereader",
+    "scan",
+    "read",
+    "javascript"
+  ],
+  "author": "Rurik Wind",
+  "license": "ISC"
+}
